@@ -13,3 +13,19 @@ body{
     height: 80svh;
     gap: 40px;
 }
+
+.imgdiv{
+    height: 40vh;
+    width: 40vw;
+    
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    max-width: 40vw;
+    max-height: 40vh;
+    object-fit: contain;
+}
