@@ -17,8 +17,6 @@ body{
 .imgdiv{
     height: 40vh;
     width: 40vw;
-    
-    border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
